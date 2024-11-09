@@ -9,14 +9,14 @@ A web-based project aimed at enhancing traffic management through real-time data
 
 1) About
 2) Features
-3) Dataset sources
-4) ML models used
+3) Dataset Sources
+4) ML Models 
 5) Graphical Simulations
-6) Deployed site link
+6) Deployed Site Link
 7) Tech Stack
-8) App demo
+8) App Demo
 9) License
-10) Connect with us
+10) Connect With Us
 
 ## About
 
