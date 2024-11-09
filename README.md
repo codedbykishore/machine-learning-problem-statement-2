@@ -9,10 +9,14 @@ A web-based project aimed at enhancing traffic management through real-time data
 
 1) About
 2) Features
-3) Deployed site link
-4) Tech Stack
-5) License
-6) Connect with us
+3) Dataset sources
+4) ML models used
+5) Graphical Simulations
+6) Deployed site link
+7) Tech Stack
+8) App demo
+9) License
+10) Connect with us
 
 ## About
 
@@ -25,14 +29,26 @@ Traffic Men is an innovative solution designed to monitor and manage traffic pat
 - **Predictive Analytics for Demand Forecasting:** Utilizes machine learning algorithms for accurate demand predictions.
 - **Adaptive Scheduling & Routing:** Uses AI algorithms to adjust vehicle deployment and routes dynamically.
 - **Optimization Engine:** Ensures optimal vehicle dispatching to balance demand and minimize commuter wait times.
+  
+## Dataset sources:
+- **MTC govt websites :** https://mtcbus.tn.gov.in/
+- **Opencity :** https://opencity.in/
+- **Traffic index :** https://trafficindex.org/
 
+## ML models used :
+ - **ARIMA** - traffic forecast
+ - **Lasso regression , Ridge regression, Random forest, Gradient Booster, Support vector regressor , Decision tree, Extra trees, Ada boost XGboosts :** For predicting the commuter demand of mtc.
 
-
-## Deployed site
+## Graphical Simulations :
+- **Networkx :** shell_layout, kamada_kawai layout, spring layout, fruchterman_reingold_layout
+- **Seaborn**
+- **Matplotlib**
+  
+## Deployed site:
 
 Explore the deployed version of Traffic Men at https://codedbykishore.github.io/traffic-men.github.io.
 
-We have also deployed a companion app addressing the project’s problem statement, which stands as our unique selling point (USP).
+We have also deployed a companion app addressing the project’s problem statement, which stands as our *unique selling point* (USP).
 App link: https://drive.google.com/file/d/1dgfqVJL29GeS4Y_QW3nRXnwdbJV8Bwmj/view?usp=drive_link
 
 
@@ -42,7 +58,6 @@ App link: https://drive.google.com/file/d/1dgfqVJL29GeS4Y_QW3nRXnwdbJV8Bwmj/view
 
 ## App Demo
 https://github.com/user-attachments/assets/0c70a59d-c29f-4175-93e6-5e7f9327639b
-
 
 
 
