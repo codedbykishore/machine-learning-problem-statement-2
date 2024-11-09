@@ -36,7 +36,7 @@ Traffic Men is an innovative solution designed to monitor and manage traffic pat
 - **Traffic index :** https://trafficindex.org/
 
 ## ML models used :
- - **ARIMA** - Traffic Forecast
+ - **ARIMA :**  Traffic Forecast
  - **Lasso regression , Ridge regression, Random Forest, Gradient Booster, Support Vector Regressor , Decision Tree, Extra Trees, AdaBoost, XGBoost :** For predicting the commuter demand of mtc.
 
 ## Graphical Simulations :
