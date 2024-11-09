@@ -1,47 +1,63 @@
-## PROBLEM STATEMENT - 2
-# AI-Driven Dynamic Public Transportation Scheduler
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d63ec84a-0758-4869-b212-8f7c4acca1a8" alt="Alt text" width="300">
+</p>
 
-Efficiently managing public transportation in urban areas is a significant challenge, especially with fluctuating commuter demand, traffic variations, and unexpected events. This project aims to develop an AI-driven platform that autonomously schedules and dispatches public transport vehicles, ensuring dynamic adaptability and optimized efficiency.
+# Traffic Men 
+A web-based project aimed at enhancing traffic management through real-time data visualization with historic data through optimized scheduling and routing.
 
-## Problem Statement
+## Table of Contents
 
-As urban populations grow, managing public transportation to meet dynamic demand becomes more complex. Traditional scheduling systems often struggle to adapt to real-time fluctuations in commuter demand, traffic conditions, or unscheduled events like concerts, sports matches, and road closures. This can result in:
+1) About
+2) Features
+3) Deployed site link
+4) Tech Stack
+5) License
+6) Connect with us
 
-- Overcrowded buses or trains.
-- Under-utilized vehicles.
-- Longer commute times and delays.
+## About
 
-These inefficiencies impact both commuters and transportation authorities, necessitating an intelligent, adaptive system for real-time scheduling and routing.
+Traffic Men is an innovative solution designed to monitor and manage traffic patterns. By delivering both real-time and historical traffic data, this project aims to support urban planning, enhance traffic safety, and manage congestion. Its objective is to provide a responsive and user-friendly platform to help cities and communities improve traffic flow and safety.
 
-## Solution Overview
-
-### Deliverables
-
-Develop an AI-based platform that autonomously manages the scheduling, routing, and dispatching of public transportation vehicles (buses, trains, etc.) based on real-time data and predictive insights. The system should:
-
-- **Predict Commuter Demand:** Leverage historical and live data to forecast demand across routes.
-- **Adapt Scheduling in Real-Time:** Respond to live traffic conditions and events by dynamically adjusting schedules.
-- **Optimize Routing and Dispatching:** Minimize congestion, reduce wait times, and balance vehicle utilization.
-
-### Objectives
-
-1. **Real-Time Commuter Demand Prediction**  
-   - Use AI/ML algorithms to predict commuter demand based on historical patterns, seasonal trends, and real-time data (e.g., weather, local events, traffic data).
-   
-2. **Dynamic Scheduling and Routing**  
-   - Continuously adapt transport schedules and routes in response to live traffic conditions and known events (e.g., concerts, sporting events, road closures).
-   
-3. **Optimization of Dispatching**  
-   - Maximize vehicle utilization by balancing commuter loads, reducing underutilized runs, and minimizing commuter wait times.
-   - Reduce congestion and ensure equitable coverage across urban regions.
 
 ## Key Features
 
 - **Real-Time Data Integration:** Incorporates traffic data, commuter density, and event information to make data-driven decisions.
 - **Predictive Analytics for Demand Forecasting:** Utilizes machine learning algorithms for accurate demand predictions.
 - **Adaptive Scheduling & Routing:** Uses AI algorithms to adjust vehicle deployment and routes dynamically.
-- **Event Awareness:** Automatically adjusts based on both scheduled (e.g., concerts) and unexpected events (e.g., road closures).
 - **Optimization Engine:** Ensures optimal vehicle dispatching to balance demand and minimize commuter wait times.
 
----
-### Note: This serves only as a reference example. Innovative ideas and unique implementation techniques are highly encouraged and warmly welcomed!
+
+
+## Deployed site
+
+Explore the deployed version of Traffic Men at https://codedbykishore.github.io/traffic-men.github.io.
+
+We have also deployed a companion app addressing the project’s problem statement, which stands as our unique selling point (USP).
+App link: https://drive.google.com/file/d/1dgfqVJL29GeS4Y_QW3nRXnwdbJV8Bwmj/view?usp=drive_link
+
+
+## Tech stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,gcp,figma,vscode,git,js,sklearn,matlab,pycharm,androidstudio,bsd,bootstrap,)](https://skillicons.dev)
+
+## App Demo
+https://github.com/user-attachments/assets/0c70a59d-c29f-4175-93e6-5e7f9327639b
+
+
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Connect with us
+
+Team members  | Connect 
+------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nijeesh N J   |  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nijeesh-nj-062468285)
+GAUTHAM KRISHNA S  | [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/heyitsgautham)
+HIRUTHIK SUDHAKAR   |  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/hiruthik-sudhakar)
+KISHORE B     |  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/k-i-s-h-o-r-e)
+
+
+
+
