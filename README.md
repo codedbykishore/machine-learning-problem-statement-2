@@ -36,13 +36,12 @@ Traffic Men is an innovative solution designed to monitor and manage traffic pat
 - **Traffic index :** https://trafficindex.org/
 
 ## ML models used :
- - **ARIMA** - traffic forecast
- - **Lasso regression , Ridge regression, Random forest, Gradient Booster, Support vector regressor , Decision tree, Extra trees, Ada boost XGboosts :** For predicting the commuter demand of mtc.
+ - **ARIMA** - Traffic Forecast
+ - **Lasso regression , Ridge regression, Random Forest, Gradient Booster, Support Vector Regressor , Decision Tree, Extra Trees, AdaBoost, XGBoost :** For predicting the commuter demand of mtc.
 
 ## Graphical Simulations :
-- **Networkx :** shell_layout, kamada_kawai layout, spring layout, fruchterman_reingold_layout
-- **Seaborn**
-- **Matplotlib**
+- **Networkx :** Shell_layout, Kamada_Kawai_layout, Spring_layout, Fruchterman_Reingold_layout
+
   
 ## Deployed site:
 
